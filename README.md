@@ -36,10 +36,8 @@ operate, focusing on addressing, routing, and protocol layers.
 - Basic routing principles
 
 ### References
-- TCP/IP networking documentation
-- OSI Model reference materials
-- Subnetting tutorials and exercises
-- General networking fundamentals guides
+- These videos to [understand TCP/id](https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P&si=q1X3gIKF_3JjYpS2)
+- These videos to [understand subnetting](https://youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF&si=Cn0poj00AhUvjapi)
 
 ### Use of Artificial Intelligence
 Artificial Intelligence was used to:
